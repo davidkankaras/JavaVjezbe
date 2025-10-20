@@ -4,5 +4,5 @@
 /**
  * 
  */
-module novi {
+module zadaci_rucno {
 }
