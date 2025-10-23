@@ -5,7 +5,7 @@ import java.util.ArrayList;
  * Članovi grupe:
  * David Kankaraš 24/094
  * Antonije Dragićević 24/107
- * Github link: https://github.com/ad-005/JavaVjezbe/tree/main/projekat_2
+ * Github link: https://github.com/davidkankaras/JavaVjezbe/tree/main/projekat_2
  * 
  */
 
